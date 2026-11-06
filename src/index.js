@@ -1,6 +1,5 @@
-import { createGreeting, appName } from "./src/modules/greeting.js";
-import createCounter from "./src/modules/counter.js";
-import "./styles.css";
+import { createGreeting, appName } from "./modules/greeting.js";
+import createCounter from "./modules/counter.js";
 
 const app = document.querySelector("#app");
 
